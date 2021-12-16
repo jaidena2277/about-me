@@ -1,5 +1,5 @@
 # about-me
-Jaiden Ahamed 
+## Jaiden Ahamed 
 jaidena2277@hstat.org
 
 I am in the high school of telecommunication arts and technology
@@ -7,22 +7,22 @@ I am in the high school of telecommunication arts and technology
 jaiden ahamed grew up in a apartment in new york and is 15 years old with one sister who is 10
 My birthday is january 11 2006 and my favorite color is blue.
 
-Schedule:
+### Schedule:
 
-Chemistry
+1 Chemistry
 
-Math
+2 Math
 
-English
+3 English
 
-Sep
+4 Sep
 
-Spanish
+5 Spanish
 
-Gym
+6 Gym
 
-Lunch
+7 Lunch
 
-Global studies
+8 Global studies
 
 I like playing games

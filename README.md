@@ -31,4 +31,4 @@ My birthday is january 11 2006 and my favorite color is blue.
 
 * I like watching shows
 
-* I have a lizaed
+* I have a lizard
